@@ -4,4 +4,5 @@
 	overflow: hidden;
 	position: relative;
 	color: #fff;
+	z-index: 1;
 }
